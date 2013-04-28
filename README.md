@@ -5,6 +5,6 @@ A C++ tetris clone that uses curses ([pdcurses](http://gnuwin32.sourceforge.net/
 
 One of my very first programming projects from sometime in 2007. It's not pretty, but it works...
 
-![Game screen](https://raw.github.com/Insood/ConsoleTetris/master/screenshots/Capture.JPG)
+![Game screen](https://raw.github.com/Insood/ConsoleTetris/master/screenshots/Capture.PNG)
 
-![Another screen](https://raw.github.com/Insood/ConsoleTetris/master/screenshots/Capture2.JPG)
+![Another screen](https://raw.github.com/Insood/ConsoleTetris/master/screenshots/Capture2.PNG)
